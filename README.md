@@ -1,2 +1,0 @@
-# test
-testRepositoryこれはテスト用のものです
